@@ -29,7 +29,7 @@ Clean, minimal design
 
 Clone this repo:
 
-git clone https://github.com/yourusername/web-pong.git
+`git clone https://github.com/yourusername/web-pong.git`
 
 
 Open index.html in your browser.
